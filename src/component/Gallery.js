@@ -50,41 +50,41 @@ const Gallery = () => {
             <div className='photo container-fluid'>
                 <Row>
                     <div className='column'>
-                        <img src={img1} />
-                        <img src={img7} />
-                        <img src={img3} />
-                        <img src={img17} />
-                        <img src={img8} />
-                        <img src={img14} />
-                        <img src={img21} />
-                        <img src={img23} />
-                        <img src={img29} />
+                        <img src={img1} alt="img" />
+                        <img src={img7} alt="img" />
+                        <img src={img3} alt="img" />
+                        <img src={img17} alt="img" />
+                        <img src={img8} alt="img" />
+                        <img src={img14} alt="img" />
+                        <img src={img21} alt="img" />
+                        <img src={img23} alt="img" />
+                        <img src={img29} alt="img" />
                     </div>
 
                     <div className='column'>
-                        <img src={img5} />
-                        <img src={img10} />
-                        <img src={img11} />
-                        <img src={img15} />
-                        <img src={img4} />
-                        <img src={img19} />
-                        <img src={img20} />
-                        <img src={img24} />
-                        <img src={img26} />
-                        <img src={img28} />
+                        <img src={img5} alt="img" />
+                        <img src={img10} alt="img" />
+                        <img src={img11} alt="img" />
+                        <img src={img15} alt="img" />
+                        <img src={img4} alt="img" />
+                        <img src={img19}alt="img"  />
+                        <img src={img20} alt="img" />
+                        <img src={img24} alt="img" />
+                        <img src={img26} alt="img" />
+                        <img src={img28} alt="img" />
                     </div>
 
                     <div className='column'>
-                        <img src={img18} />
-                        <img src={img16} />
-                        <img src={img6} />
-                        <img src={img13} />
-                        <img src={img12} />
-                        <img src={img2} />
-                        <img src={img22} />
-                        <img src={img25} />
-                        <img src={img9} />
-                        <img src={img32} />
+                        <img src={img18} alt="img" />
+                        <img src={img16}alt="img" />
+                        <img src={img6} alt="img" />
+                        <img src={img13} alt="img" />
+                        <img src={img12} alt="img" />
+                        <img src={img2} alt="img" />
+                        <img src={img22} alt="img" />
+                        <img src={img25} alt="img" />
+                        <img src={img9} alt="img" />
+                        <img src={img32} alt="img"/>
 
                     </div>
                     
